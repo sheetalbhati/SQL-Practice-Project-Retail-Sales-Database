@@ -1,4 +1,4 @@
-**Overview**
+## **Overview**
 
 This project is a beginner-level SQL practice exercise where I created and worked with a sample retail sales database. The goal of this project was to strengthen my understanding of database setup, data cleaning, and writing SQL queries for basic data retrieval and reporting.
 
